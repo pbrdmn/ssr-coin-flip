@@ -1,0 +1,38 @@
+{
+  "name": "coin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.2",
+    "es6-promise": "^4.2.4",
+    "express": "^4.16.3",
+    "ignore-styles": "^5.0.1",
+    "isomorphic-fetch": "^2.2.1",
+    "morgan": "^1.9.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "start": "NODE_ENV=development node server/index.js",
+    "now-start": "NODE_ENV=production node server/index.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.9.1"
+  }
+}
