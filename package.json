@@ -4,20 +4,20 @@
   "private": true,
   "dependencies": {
     "babel-register": "^6.26.0",
-    "body-parser": "^1.18.3",
-    "compression": "^1.7.3",
-    "es6-promise": "^4.2.5",
-    "express": "^4.16.4",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
     "ignore-styles": "^5.0.1",
     "isomorphic-fetch": "^2.2.1",
     "morgan": "^1.9.1",
-    "prop-types": "^15.6.2",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
-    "react-redux": "^5.1.0",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.0",
-    "redux": "^4.0.1"
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.1.1",
+    "redux": "^4.0.4"
   },
   "scripts": {
     "dev": "react-scripts start",
@@ -30,9 +30,9 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-react": "^7.11.1"
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3"
   }
 }
