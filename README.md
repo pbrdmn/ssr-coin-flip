@@ -6,15 +6,15 @@ Server-side rendering in express, redux state management and react-router
 
 ## Install Dependencies
 ```
-yarn install
+npm ci
 ```
 
 ### Build server
 ```
-yarn build
+npm build
 ```
 
 ### Run server
 ```
-yarn start
+npm start
 ```
