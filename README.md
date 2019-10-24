@@ -11,7 +11,12 @@ npm ci
 
 ### Build server
 ```
-npm build
+npm run-script build
+```
+
+### Local testing
+```
+npm run-script dev
 ```
 
 ### Run server
